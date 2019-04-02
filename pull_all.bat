@@ -1,0 +1,1 @@
+py.exe pull_all.py
